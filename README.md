@@ -1,9 +1,6 @@
 # Project Title:
 BLOGAPI
 
-# Project Logo:
-![](screenshots/favicon.svg)
-
 # Project Description:
 This project is an API for the ITBLOG project, written using the Django Rest Framework. The API contains the following operations:
 + CRUD operations for Profiles;
